@@ -1,0 +1,3 @@
+LucidaSansRegular /mnt/data/projects/june2012/server/fonts/ttf/LucidaSansRegular.ttf
+
+
